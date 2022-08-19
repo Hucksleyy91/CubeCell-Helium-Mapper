@@ -9,10 +9,10 @@
 #include "HT_SSD1306Wire.h"
 
 //if GPS module is Air530, use this
-Air530Class Air530;
+//Air530Class Air530;
 
 //if GPS module is Air530Z, use this
-//Air530ZClass Air530;
+Air530ZClass Air530;
 
 int switchVIB=GPIO7;
 
